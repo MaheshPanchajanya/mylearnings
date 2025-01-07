@@ -61,7 +61,7 @@
 
 
 from pyspark.sql import SparkSession
-import boto3
+#import boto3 commenting boto3 is not required sas we are not using S3
 #import sys
 
 #sys.path.insert("/home/manjiro/Desktop/my_etl_project/")
